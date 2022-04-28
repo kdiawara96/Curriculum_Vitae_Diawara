@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Noticia Text';
+  font-style: italic;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/noticiatext/v14/VuJodNDF2Yv9qppOePKYRP12Ywtan0s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noticia Text';
+  font-style: italic;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/noticiatext/v14/VuJrdNDF2Yv9qppOePKYRP12YwPhulvShDA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noticia Text';
+  font-style: normal;
+  font-weight: 400;
+  src: url(http://fonts.gstatic.com/s/noticiatext/v14/VuJ2dNDF2Yv9qppOePKYRP12Zjtd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noticia Text';
+  font-style: normal;
+  font-weight: 700;
+  src: url(http://fonts.gstatic.com/s/noticiatext/v14/VuJpdNDF2Yv9qppOePKYRP1-3R5NuGvV.ttf) format('truetype');
+}

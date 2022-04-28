@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Contact</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<link href='../css.css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900' rel='stylesheet' type='text/css'>
+<link href='../css-1.css?family=Noticia+Text:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/themify-icons.css">
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="css/responsive.css">
+
+</head>
+
+<body>
+
+	<div class="layout">	
+    
+    <header>
+        <div class="container full">
+        	<div class="row">
+            	<div class="col-md-12">
+                	<div class="inner-header_bg">
+                    	<img src="images/inner_header.jpg" alt="">
+                    </div>
+                	<div class="fixed-title inner">                    	
+                        <div class="top-close">
+                                <a href="index.html" title="" class="btn-close"><i class="fa fa-close"></i></a>
+                        </div>
+                        <h2>Salut, Je suis </h2>
+                        <h1> Karim DIAWARA </h1>
+                        <p>Developpeur Web & Mobile</p>
+                        <ul class="social">
+                            <li><a href="https://www.facebook.com/karim.diawara.18/" target="_blank" title="" class="fb"><i class="ti-facebook"></i></a></li>
+                            <li><a href="mailto:karimdiawara96@gmail.com" target="_blank" title="" class="gplus"><i class="ti-google"></i></a></li>
+                            <li><a href="https://github.com/kdiawara96" target="_blank" title="" class="reddit"><i class="ti-github" style="color:white;"></i></a></li>
+                            <li><a href="https://twitter.com/karimdiawara96"  target="_blank" title="" class="drible"><i class="ti-twitter"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <section>
+    	<div class="sect-gap grey">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-md-12">
+                    	<div class="title style1">
+                        	<h2>Contactez moi</h2>
+                            <p>Web & Application Mobile </p>
+                        </div>
+                    </div>
+                    <div class="contact-form">
+                    	<div class="col-md-12">
+                            <div class="error-msg"></div>
+                            <div class="loader">
+                            	<img src="images/loader.gif" alt="">
+                            </div>
+                        </div>
+                    	<form action="mailto:karimdiawara96@gmail.com" method="post">
+                        	<div class="col-md-6">
+                            	<label>
+                                	<i class="ti-user"></i>
+                                    <input type="text" placeholder="Nom complet" id="txt-name">
+                                </label>
+                            	
+                            </div>
+                            <div class="col-md-6">
+                            	<label>
+	                                <i class="ti-email"></i>
+                            		<input type="text" placeholder="Courrier" id="txt-email">
+                                </label>
+                            </div>
+                            <div class="col-md-12">
+                            	<label>
+                                	<i class="ti-receipt"></i>
+                            		<input type="text" placeholder="Votre sujet" id="txt-sub">
+                                </label>
+                            </div>
+                            <div class="col-md-12">
+                            	<textarea placeholder="Laissez un message" id="txt_msg"></textarea>
+                                <div class="btn-submit">
+                                	<button><i class="ti-email"></i>Envoyez</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+  
+    <footer>
+        <div class="copyright">
+            <p>Copyright &copy; 2022 Conçu par Diawara Karim</p>
+        </div>	
+    </footer>
+    
+    
+    </div>
+    
+    <script type="text/javascript" src="js/jquery2.1.1.js"></script>
+    <script type="text/javascript" src="js/jquery.mCustomScrollbar.js"></script>
+    
+    <script>
+	
+		"use strict";
+		
+		(function($){
+			$(window).load(function(){
+				$(".styles-list").mCustomScrollbar();
+			});
+		})(jQuery);
+		
+		$(document).ready(function($) {
+			$('.btn-mov a').on('click', function() {
+					$('.styles-list').toggleClass('up');
+					$('.btn-mov').toggleClass('up');
+				return false;
+			});
+		});
+		
+		
+		$(".btn-submit button").on('click', function() {
+			
+			var name = jQuery('#txt-name').val();
+			var email = jQuery('#txt-email').val();
+			var subj = jQuery("#txt-sub").val();
+			var msg = jQuery("#txt_msg").val();
+			var action = "act_contact";
+			var data = "action="+action+"&name="+name+"&email="+email+"&subj="+subj+"&msg="+msg;
+			
+			$.ajax({
+				'type'	: "POST",
+				'url' 	: 'http://usertheme.com/templates/mr-resume/contact.php',
+				'data'	: data,
+				beforeSend: function() {
+					jQuery(".loader").show();
+				},
+				success: function(response) {
+					jQuery(".loader").hide();
+					jQuery(".error-msg").show();
+					jQuery(".error-msg").html(response);
+				}
+			});
+			
+			return false;
+		});
+		
+		
+	</script>
+    
+</body>
+</html>

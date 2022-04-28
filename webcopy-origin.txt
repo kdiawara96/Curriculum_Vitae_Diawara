@@ -1,0 +1,504 @@
+Uri: http://templates.seekviral.com/resume/index.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\index.html
+Content Type: text/html
+
+Uri: http://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\css.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Noticia+Text:400,700,400italic,700italic
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\css-1.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\themify-icons.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/css/jquery.mCustomScrollbar.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/css/style.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\style.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/css/responsive.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\responsive.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/profile.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\profile.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/blog.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\blog.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/portfolio.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\portfolio.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/contact.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\contact.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/index1.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\index1.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/index2.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\index2.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/index5.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\index5.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/index3.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\index3.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/index4.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\index4.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/images/fancy-header01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-header01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/demo1.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\demo1.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/1banner.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\1banner.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/demo2.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\demo2.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/2banner.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\2banner.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/demo3.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\demo3.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/3banner.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\3banner.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/demo4.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\demo4.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/4banner.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\4banner.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/demo5.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\demo5.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/5banner.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\5banner.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/demo6.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\demo6.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/6banner.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\6banner.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/js/jquery2.1.1.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\jquery2.1.1.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/js/jquery.mCustomScrollbar.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\jquery.mCustomScrollbar.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/css/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://templates.seekviral.com/resume/css/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://templates.seekviral.com/resume/css/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\fonts\themify.woff
+Content Type: font/woff
+
+Uri: http://templates.seekviral.com/resume/css/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: http://templates.seekviral.com/resume/css/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: http://templates.seekviral.com/resume/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://templates.seekviral.com/resume/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://templates.seekviral.com/resume/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://templates.seekviral.com/resume/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://templates.seekviral.com/resume/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://templates.seekviral.com/resume/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://templates.seekviral.com/resume/images/parallax01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/experience01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\experience01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/experience02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\experience02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/experience03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\experience03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/images/inner_header.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\inner_header.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/testimonial01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\testimonial01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/testimonial02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\testimonial02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/testimonial03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\testimonial03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/testimonial04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\testimonial04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/bottom-info01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\bottom-info01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/bottom-info02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\bottom-info02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/bottom-info03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\bottom-info03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/bottom-info04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\bottom-info04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/bottom-info05.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\bottom-info05.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/js/app.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\app.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/images/blog01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\blog01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/blog02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\blog02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/blog03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\blog03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/single.html
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\single.html
+Content Type: text/html
+
+Uri: http://templates.seekviral.com/resume/css/prettyPhoto.css
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-06.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-06.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-08.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-08.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-07.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-07.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/portfolio-05.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\portfolio-05.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/js/jquery.prettyPhoto.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\jquery.prettyPhoto.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/js/jquery.isotope.js
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\js\jquery.isotope.js
+Content Type: application/javascript
+
+Uri: http://templates.seekviral.com/resume/images/loader.gif
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\loader.gif
+Content Type: image/gif
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu05.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu05.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu06.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu06.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu07.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu07.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/fancy-menu08.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\fancy-menu08.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax10.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax10.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax12.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax12.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax11.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax11.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/logo.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/menu_bg01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\menu_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/menu_bg02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\menu_bg02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/menu_bg03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\menu_bg03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/menu_bg04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\menu_bg04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/menu_bg05.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\menu_bg05.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/menu_bg06.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\menu_bg06.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/inner_header01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\inner_header01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/mobile.png
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\mobile.png
+Content Type: image/png
+
+Uri: http://templates.seekviral.com/resume/images/blog04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\blog04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/blog05.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\blog05.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/video-large01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\video-large01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/video-large02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\video-large02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/video-small01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\video-small01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/video-small02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\video-small02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/video-small03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\video-small03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/logo1.png
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\logo1.png
+Content Type: image/png
+
+Uri: http://templates.seekviral.com/resume/images/author01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\author01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photography01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photography01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photography02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photography02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photography03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photography03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photography04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photography04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photography05.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photography05.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photography06.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photography06.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/photo-carousel01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\photo-carousel01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax04.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax04.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax06.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax06.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax07.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax07.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/price-table03.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\price-table03.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/price-table02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\price-table02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/price-table01.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\price-table01.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax08.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax08.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/parallax09.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\parallax09.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/author02.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\author02.jpg
+Content Type: image/jpeg
+
+Uri: http://templates.seekviral.com/resume/images/single-blog.jpg
+File Name: C:\Downloaded Web Sites\templates.seekviral.com\resume\images\single-blog.jpg
+Content Type: image/jpeg
+
